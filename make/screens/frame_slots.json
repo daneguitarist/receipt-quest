@@ -1,0 +1,23 @@
+{
+ "24": "vhs_ff",
+ "7": "tracking",
+ "9": "illegal",
+ "12": "missing",
+ "11": "receipt",
+ "13": "vhs_pause",
+ "15": "vhs_label",
+ "14": "nosignal",
+ "10": "vhs_rew",
+ "20": "teletext",
+ "18": "vhs_tracking_bar",
+ "6": "cctv",
+ "8": "sierra2",
+ "22": "datamosh",
+ "4": "vhs_play",
+ "17": "vhs_channel",
+ "23": "evidence",
+ "16": "sierra1",
+ "5": "loading",
+ "19": "vhs_rec",
+ "21": "broken_jpeg"
+}
