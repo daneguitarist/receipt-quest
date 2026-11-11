@@ -1,0 +1,12 @@
+# never commit a firmware dump or anything read from a camera
+*.bin
+firmware_backup_*/
+write_*/
+log_*.txt
+# build products
+*.o
+*.elf
+*.so
+__pycache__/
+.venv/
+make/effect/fuzz_fx
