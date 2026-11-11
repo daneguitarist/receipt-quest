@@ -1,0 +1,7 @@
+# Receipt Quest settings - change the word after = and save.
+style = random        # random (grey or dots, picked per photo), agi-grey, agi, sci
+glitch = random       # random (subtle, sometimes none), off
+bars = random         # random (game status bar on about half), on, off
+replace_on_card = yes # yes = swap each camera photo for its print (original kept on this PC)
+                      # no  = leave the card alone, put prints in the prints folder here
+eject_when_done = yes
