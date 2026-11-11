@@ -1,0 +1,192 @@
+{
+ "format": "receipt-quest-pack/1",
+ "name": "sounds",
+ "title": "SOUNDS",
+ "firmware": "AX3291A 20240822_V1.9",
+ "windows": [
+  [
+   497,
+   499
+  ],
+  [
+   552,
+   584
+  ]
+ ],
+ "sectors": {
+  "0x1f1000": {
+   "stock": "891b11330a76990eae049c8ef0ef2fe5c074ed5d91842b841233e54cbd65b5de",
+   "ours": "300bf8d0675abb374000d49416942dbe5a7041ae10b0bb1e2a5805ba79d4f574"
+  },
+  "0x1f2000": {
+   "stock": "11041af777a06023d5f833f58bbfde1fec2f5ad8fc1972ad82209561680c149b",
+   "ours": "470a77b6615665095500c41c679eea361a649a5fc8997df84341cb91acc5c200"
+  },
+  "0x228000": {
+   "stock": "8bdbb48747b815b01b73819de78bd6b0af604d3b0d5ae7cbdaf0dbfb751c6687",
+   "ours": "c5537492787986b958d81bc230f25bb526ad5b4af28b995c00d2d0c0eb5410d8"
+  },
+  "0x229000": {
+   "stock": "0b493781dd40f79a662e159b17d82bf36a79389786e077e1278765564ca8308c",
+   "ours": "2415e4dcb875dc7d7a769752c4c23db66d345ea3402d9d1d174453ad9a5012ac"
+  },
+  "0x22a000": {
+   "stock": "af64f91425e0ad092b59e69668be296b84c298187382da2424488fb0f52e3527",
+   "ours": "10a0ad373f8146462a239f3e80b5d6bfc1a7ffba04a7adab05c0cf27d03fa300"
+  },
+  "0x22b000": {
+   "stock": "9c5be59878708c0040e7481ffd056ac644ec580e56491e9b8e22ae2597d9b366",
+   "ours": "14c93a59177c0aa42f05d09737d2499a6d4fa2c0bb5938f70e8ba2109460bfb9"
+  },
+  "0x22c000": {
+   "stock": "42c21079ec60851db645eadac9ca99d436b9b7796b699b9f23200848477f9e2d",
+   "ours": "41c75b8115069413adf0eb11f3004df5ce3f68a9bca9c6b026a878fda47299b7"
+  },
+  "0x22d000": {
+   "stock": "af3ae1b891fb8cbcb4869dd13db600c336d7db357e197eb7e3de8cc9c38ece45",
+   "ours": "2b4bf1a4100a64e634da970d1a9aead3a54dafcc6684679c4f93f4795ff8e169"
+  },
+  "0x22e000": {
+   "stock": "726da9e956316be637f31794911565b7fba31ce73fd3ec6cfd5abdb980c9d5a9",
+   "ours": "be95675215d8b2a232381466baaa9ddf0d1c66dfcd16e644298f3e40fb54f845"
+  },
+  "0x22f000": {
+   "stock": "71195bad4baefe69d6ff51211d801da737c2689ca38257f19f519daec1473ba6",
+   "ours": "6b8c53d7d0d2b099cc9ccafe8b291b896ef707a10721593fe349b4c51f1b1cef"
+  },
+  "0x230000": {
+   "stock": "fa0cc450ee2d4f82c3d171acc2120c261edfa11140e67fe69ae9b4b61a76c2ba",
+   "ours": "deb89aa7d112487599576120fef605d27f45162193dcc3ab8cb90d48a824d66e"
+  },
+  "0x231000": {
+   "stock": "e2a6d0719fa6f0c9b5be001119eccd3ea2e5f6a103226fb438817c7e35e99cd6",
+   "ours": "2bcb1d56b52f5cc87cc95265388c179f7c502cb0eb6e1b11de069798edcc329c"
+  },
+  "0x232000": {
+   "stock": "5687fde1768e9337fdae48aef0b7b40bbb01ba3bd50e1c657cc664f446dbb17b",
+   "ours": "cf22785496aa8c912a8bba47cd434d22b54af0706fe145e57c3ee03044f0c209"
+  },
+  "0x233000": {
+   "stock": "0afe88108e2a8fa9fcbc7ea403ed17c6e6262c044a45885b7d02907eda6c9a20",
+   "ours": "738428826e3ede65e7773a5592c56c4fe602b7fbc1fbc5d4282971fc4028db70"
+  },
+  "0x234000": {
+   "stock": "ad1e8bb0b03397241c0ecd87a6bb519f4e0d527008d08d23d83f28cde7b1a68d",
+   "ours": "d19f8504b4e64bd2e72f5cb59bd0cf7de1f67494d1ffb450ee5a25c1c645933c"
+  },
+  "0x235000": {
+   "stock": "3e9b777a321c7d5e9316c6b184bd29ec02a5c4becd30eb1de5f2b3189910e5c8",
+   "ours": "c5aca6a68c4ebed647abeed18c7baa6d97cbe017ed6a9a1d10a86880e9266358"
+  },
+  "0x236000": {
+   "stock": "edf8e75ed2fb0a4f3c2fa925c82e6c387552e81173c4dfd5f490e83d36c72527",
+   "ours": "f326a6cc1dbdfb3afe061f949c4dd7b47b44ad09702a5b07b7409d94db30af9d"
+  },
+  "0x237000": {
+   "stock": "fcce0c3701dc7c00f73974561cab28e3db8c1bfbd7d33a8e81440719da7d0097",
+   "ours": "b326590a871ff4fa9368e5b3906f1936c42090eff95e669d85d837881c29c867"
+  },
+  "0x238000": {
+   "stock": "8e2cd28e3bb36d96bf383ca722552e9cbf0d50511bbd3309524c58613a005495",
+   "ours": "fd08eabad3f146db326c6053adcf54aa9d053a59d50a096db98e379bc921053c"
+  },
+  "0x239000": {
+   "stock": "7f39e6b5b77c106f6328bad244bfd3266926fbadd83d1763d6ad02c5514e9ee6",
+   "ours": "d4cf1bbbb2a9853a27c77216033b9859f566c51f19911e4627b779b0f0dc0d8b"
+  },
+  "0x23a000": {
+   "stock": "440f5dd455467d149124b12427b7323fbc54f47e4aa71d01da41de3e9220edb0",
+   "ours": "79a5db0cf1361e3ff3b4ceb3c8c975796d05523233fd76155b94c96b3f4d9caf"
+  },
+  "0x23b000": {
+   "stock": "f965f80587a52da0ff2e58d5467f66efd79e60c280d9780d845a247dfd253540",
+   "ours": "345d5502f62efdb2db94ebf0ecdbe6bdc7831025522a61f9c517d3db3b9d5529"
+  },
+  "0x23c000": {
+   "stock": "f826044107b1f3566b87a8fa9f5af68101faa4aff47ea322345a1d36838ef674",
+   "ours": "579c37f58fa0db9fc5d00d5231b0d2a40a3e695f5a67053c9ac6caa8e57122d0"
+  },
+  "0x23d000": {
+   "stock": "6c9ee32b6ffd71dcc842e200f9fc500443066475c54b9515ba99a0afef942ea2",
+   "ours": "65f10f87b2f52800e4e4065931042a85c5ecf441554cf95d6c947fbb63af2867"
+  },
+  "0x23e000": {
+   "stock": "d3457d03a6b37050c1bbb99e1009c8b188bc8ef14b2ee53a04a545442dca2d9a",
+   "ours": "9d63a08242e2001ebf174094cc2320807f8b3e39ed21c6b756a4b526b4a95350"
+  },
+  "0x23f000": {
+   "stock": "b18da0c9b59a904916e2b3be1d1b1f3e80fa3bde0c061d4035c9314658fa027d",
+   "ours": "df5b9c92a9572eb09a6824aa7cd3deade431af45df885eb5073805da26e10710"
+  },
+  "0x240000": {
+   "stock": "d027c8c20e77a81bd6def6911b8be9b5bf444e037b158992667711e649da3ed1",
+   "ours": "44ed34d71eb26593543ad0002498d9b39dc9634f9f34837e451edb94a97b96d2"
+  },
+  "0x241000": {
+   "stock": "9da1070a4705a23c5d1a6ba0fc17054e8f441ac5a02d98ce91c21b0c26666ef3",
+   "ours": "416728a00b60b44a54c2dd0fb3ec482c326d64617470e9a4d45b71ee6b8c657f"
+  },
+  "0x242000": {
+   "stock": "fbabf75cde637443a3c903e30dbbe8f59de5f1756444e3d414f1f22d41e012e9",
+   "ours": "bf976a12f944fa2de474199b315fb76f9c0021ac438880691a9038daeb59457c"
+  },
+  "0x243000": {
+   "stock": "18c99ec2e04d3fef2b191adf06ca0e10db662fc78ef8aaa04bb92f13145485d5",
+   "ours": "c9547c03f42df54a70d5c7cae1b3a574b4421c01c5bbae983f0bcfdecb4ee01c"
+  },
+  "0x244000": {
+   "stock": "7a5d9e7e7befb15108240481cd4ec3db03c48257d8c20b93966496945386d724",
+   "ours": "38e719c9055ae2f10e72caf74b2c5eeac30a9fa70addba20d5c6940c7bf88163"
+  },
+  "0x245000": {
+   "stock": "ce27fb83d1edb00c3e121a2b93b96e87c930ba8e4b489b8626dc1ed6fc21f0f8",
+   "ours": "ca00b741cf7a5a0f3b19f3481da38f25aaa0ee55cd7caaa85baf541693a17fa3"
+  },
+  "0x246000": {
+   "stock": "1194711c18121efd448df7226919a9c4025a5c2e29bd4711b10cf31b1ec7fbf6",
+   "ours": "a2df8318006c67271e8701ddcfe27cace117ba35b3b14b67e63bfbf241d0da16"
+  },
+  "0x247000": {
+   "stock": "6a6e3e2191ac00be47a7665307f0cd78bdd7bfb5bdd01c18a2913b4c2655e942",
+   "ours": "3a3845684a8c2bed8e8535537ba691d1a51d9ce752c0e73ebaae525047d03e87"
+  }
+ },
+ "last_install": [
+  "0x237000",
+  "0x238000",
+  "0x239000",
+  "0x23a000",
+  "0x23b000",
+  "0x23c000",
+  "0x23d000",
+  "0x23e000",
+  "0x23f000",
+  "0x240000",
+  "0x241000",
+  "0x242000",
+  "0x243000",
+  "0x244000"
+ ],
+ "last_undo": [
+  "0x237000",
+  "0x238000",
+  "0x239000",
+  "0x23a000",
+  "0x23b000",
+  "0x23c000",
+  "0x23d000",
+  "0x23e000",
+  "0x23f000",
+  "0x240000",
+  "0x241000",
+  "0x242000",
+  "0x243000",
+  "0x244000"
+ ],
+ "requires": [],
+ "patch_sha256": "9e45ce890b8016b80fa0df4cd2143f56581607d2d668d234292e3369ee32947e",
+ "patch_bytes": 133593,
+ "new_bytes": 132877,
+ "copied_from_stock_bytes": 235,
+ "note": "7 sounds: 4 button clicks, power off, power on, shutter. The power-on sound is written last."
+}

@@ -1,0 +1,168 @@
+{
+ "format": "receipt-quest-pack/1",
+ "name": "screens-startup",
+ "title": "SCREENS: START-UP",
+ "firmware": "AX3291A 20240822_V1.9",
+ "windows": [
+  [
+   661,
+   682
+  ],
+  [
+   757,
+   765
+  ]
+ ],
+ "sectors": {
+  "0x295000": {
+   "stock": "b95b5dcc4d2900cd76a050c7232ca2e5bfba287de8ef206beb1321692069b045",
+   "ours": "1a4a0ab21966fe8705f5196348d6e8cff410e395e7abf063979fd7f4aecf584d"
+  },
+  "0x296000": {
+   "stock": "678da3af88d07827d371f91678585c2a01684e1a174cbb3fd0594873f5d48ead",
+   "ours": "78a011d701fb3cf2ba33588ead81b75ee0dbe163ff9915c737eb5ea058001667"
+  },
+  "0x297000": {
+   "stock": "c92733bdf379d01f1ec8953108d62b38a492f1f3e82edea48a0a07acf3a755f9",
+   "ours": "e1fb07925ad546d41544fdd5d3c12d2483acfb3035094391472b5443a4c41646"
+  },
+  "0x298000": {
+   "stock": "ffdce5d593e5b8c0fb7eb4c40a1d04f589eaa8625d8bc62f5e168920cbe77e9f",
+   "ours": "55a5000ce8207bce1372b79ff2ac4fb5ae09fdb50e885ca9285d480f60a8ece0"
+  },
+  "0x299000": {
+   "stock": "34f9dd2ec128b41473194665085a5e91bfa50a99b0e64719c7950e640e52a230",
+   "ours": "7b4c0c0ca626b1468fa0c1e2ff2ee756d5ff142bf01dd007316598458d9241ab"
+  },
+  "0x29a000": {
+   "stock": "2d7bde61e22a950208b6ec833d04100e31ff198f9fb4aaf5a763891e7d510c56",
+   "ours": "0b926dad62b56f47f8a7bb03c5a0c6e6cd49e75cb43e7249611f40771ab4fb73"
+  },
+  "0x29b000": {
+   "stock": "9c2903b77435d1a5c1fa2c33fdcd68cdb80347fbf5505c0e529829070f714687",
+   "ours": "440344e72fd72ef6fa33e8874fe2b8a9942fa9a5bd536d3bafef1beb3df8ea64"
+  },
+  "0x29c000": {
+   "stock": "f1f13d536d6c247e6b8e5dfcc952daa3222032ef317d28b0ab510d3330eab008",
+   "ours": "35d33b36721c7bc3b0c6963f0dc1d51e7cc8d8a62500f1319373f1184cfcd834"
+  },
+  "0x29d000": {
+   "stock": "c00a68c0a5b64ebd758ac34011b57db53bd8897f1029574c0eada91544fc8925",
+   "ours": "1c49e7e6afb34b8ff3b8faa37e0e4edc2601bddd99d531a8b2343ea0a388193d"
+  },
+  "0x29e000": {
+   "stock": "cd02c5ea6c4a520c7742e72376dc639c877c74e7cb3fd9ac5ea0d6244c622064",
+   "ours": "028a7b914699c89309174bb2f508e8e66b69ec8cf917bc3dc558d018f57b00a2"
+  },
+  "0x29f000": {
+   "stock": "63b1ed258a4301ba2a0e3cf7bc0125ac30635c37db8f4ffbdaafecddcd09b11f",
+   "ours": "58fea26019b91dc18f0c4361f8c83eeb21a0f013d469b20b0ec8e95f382cf119"
+  },
+  "0x2a0000": {
+   "stock": "6373fbb597b512f9ba7ce583e45ac43ca97848a118c4f88e6358d2234b8b752d",
+   "ours": "24d2cefbe5d9065bd807a034077edef661ceef042bdd4ee82c9dea9f64635127"
+  },
+  "0x2a1000": {
+   "stock": "7a80aeaf1d7828d175be005a48b46c71757c4b867104f611a13a8ec8378661e6",
+   "ours": "8f2aa737d5d53955d8aa3476e9bbc13f47495f3b400e538cf9debd3ed70d9298"
+  },
+  "0x2a2000": {
+   "stock": "4575fdd0b04fdfe2c76852f898b3275e61f992871c95b054e37b234877176050",
+   "ours": "00ef358560018562a3487483d19dfc0e3ed4ff120ed75e013a1b1a2583e86370"
+  },
+  "0x2a3000": {
+   "stock": "fd517dd79c86cc246ee499917fb0ed4c0941bc05bfc5d002db71dc1aadf05f62",
+   "ours": "3a460d25ab2e6dc5d260c723a09e6a43fbef064c5c202f90557c9bf7e578f348"
+  },
+  "0x2a4000": {
+   "stock": "bd06b3a1c5e0121c4f5815a3f59b023841fabd978536d8ee85c5dfcc1cc4178b",
+   "ours": "cf6072eeecbd26710d9871b352cf795a1ea6dc4250ad6e21824c50670110370e"
+  },
+  "0x2a5000": {
+   "stock": "041579b66aeb2a363a543b6e3f9730cf22872c884fcfc52f51dc96e25b46082f",
+   "ours": "fbe9ca5bef6ced7a59048983a5385ed481d1fa6040f54c935c2daf8d8e55c714"
+  },
+  "0x2a6000": {
+   "stock": "affc304935df1181bc39181d348d32eb9e8d5c181cd496f4d8241f465d87d484",
+   "ours": "b598332df3a4fbecce8181500236f672f18273af3b6d3f6fba9f8ad5e0268f74"
+  },
+  "0x2a7000": {
+   "stock": "d5dfcb27fd99af5ba6e66aa4b16663858810a115f7b493f085a09cfee2bcee51",
+   "ours": "442dceff99ef7dbfcf066fbd8aca20ca62ce5fb3fed1bef537cde9f2066a8a3c"
+  },
+  "0x2a8000": {
+   "stock": "9486b0c9cc131781e3fb1086509f75b5f9ff87f29fc39aaed5b138e89648c81c",
+   "ours": "7daa4236e7bc5cdc4408382dca7488d9c74d62faa59179e6a7345f61a2f95d1b"
+  },
+  "0x2a9000": {
+   "stock": "1ef16fb1c031b6a562a1f2b2bbfc8d90a1d44cc145fb3ed942f09dc36e90e7e6",
+   "ours": "5ce8d5e9a0d7edd85cb65719cd60c3b4db24ec752236ba64738b6ab6c7eb9f27"
+  },
+  "0x2f5000": {
+   "stock": "e9a4f69d4f3e4738b1b96b27ac2f95e778f7ff9c4de304493b95bc62b7ed14ac",
+   "ours": "985075d027b52836f70024a268b125fa8d9cb90654f2b4f65ea79ef030f40f26"
+  },
+  "0x2f6000": {
+   "stock": "8a609ae408e7ac3e69f127176b047df5a90d7bd5f986df8fca9ba2f3eb88cd67",
+   "ours": "4859dc8a110af7261ebc0e36b5b1df2d6f7c2bc263d317801742b8690e98e899"
+  },
+  "0x2f7000": {
+   "stock": "d5397d43197d813d0cce9f94fd7ab9fbb0a51e15033452ff5a3e25948ba7871f",
+   "ours": "a5c275083560618b3d9e744aef02658127c7170dc9489732a68df0679b6bfa6c"
+  },
+  "0x2f8000": {
+   "stock": "bd0ebf1ba0071a9d5f19ddab6fd0d616b249d3c29e8633e8ccbde11eae3559d4",
+   "ours": "e188cbdfe55d0c55a11c8172856f94e292375fd3cc35a7379edb1feba5c7beee"
+  },
+  "0x2f9000": {
+   "stock": "e924766af646539cb83f86f82fc7b85a8f9a1cceda396acdfa205298df1c2099",
+   "ours": "e31d9137fc49c4738c4e470e8d5a62d3cdd9871c78aa489370f60f44d0c89f68"
+  },
+  "0x2fa000": {
+   "stock": "7f410ece7d7876a9d762d1d1ff5e11135278733be5dfee78b5b5fcb8bac802e1",
+   "ours": "ef81e8943d16314f9500825ef930741f62af3ea1008fc08cc0ccb63ecd6fc72a"
+  },
+  "0x2fb000": {
+   "stock": "54692d184747b21fd0a44caf72c68473b141ef6f8c2c0fa2bae70845f5621edb",
+   "ours": "04e083dbdb51a9949263c5d322440dc70b507d77584a1eb23c0e88a38a9040f1"
+  },
+  "0x2fc000": {
+   "stock": "bb15f7fbeb1ee1279e42273313ee5b521ed0d0feb26513520cbdec963fc148fd",
+   "ours": "1c708c80565b78db793f983bca0b823af7f8cf99fe4bb7011373e91876120473"
+  }
+ },
+ "last_install": [
+  "0x29f000",
+  "0x2a0000",
+  "0x2a1000",
+  "0x2a2000",
+  "0x2a3000",
+  "0x2a4000",
+  "0x2a5000",
+  "0x2a6000",
+  "0x2a7000",
+  "0x2a8000",
+  "0x2a9000"
+ ],
+ "last_undo": [
+  "0x29f000",
+  "0x2a0000",
+  "0x2a1000",
+  "0x2a2000",
+  "0x2a3000",
+  "0x2a4000",
+  "0x2a5000",
+  "0x2a6000",
+  "0x2a7000",
+  "0x2a8000",
+  "0x2a9000"
+ ],
+ "requires": [
+  "screens-menus"
+ ],
+ "patch_sha256": "d983e77df42f75fe69b5e9aecf7ccd927d7798cc6bc1d9104c4d31c7d412fefe",
+ "patch_bytes": 101657,
+ "new_bytes": 101169,
+ "copied_from_stock_bytes": 7532,
+ "note": "Switch-on / switch-off / USB screens. Needs screens-menus first (proves your camera shows the new pictures)."
+}

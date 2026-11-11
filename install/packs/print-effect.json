@@ -1,0 +1,67 @@
+{
+ "format": "receipt-quest-pack/1",
+ "name": "print-effect",
+ "title": "PRINT EFFECT",
+ "firmware": "AX3291A 20240822_V1.9",
+ "windows": [
+  [
+   14,
+   16
+  ],
+  [
+   24,
+   25
+  ],
+  [
+   896,
+   900
+  ]
+ ],
+ "sectors": {
+  "0xe000": {
+   "stock": "257c349262b92071da61bde6fb2b0742bcfc1462cdc9fd261297fa32a3c4259d",
+   "ours": "56df13c9504a51bc9d17a1fe11619389ddfc0dc95750f32a8c2ac283fb61ac64"
+  },
+  "0xf000": {
+   "stock": "c6d08c42bf869845d817091c792aa69352c05a7b33b654c1d07a6c79827a2018",
+   "ours": "c6a593b62e906e110f17779e15a60a5f7dcfc09ea1df14f71df94254994951a6"
+  },
+  "0x18000": {
+   "stock": "21bce1bf08fcc07fe046c94d38515a45ab1bd1a6b7b16622c8ede80f48d99361",
+   "ours": "dcf9834b0b1a52b0d4733a008007d6e68ad885dbf9083438f65a1ea7d6f36415"
+  },
+  "0x380000": {
+   "stock": "f47a8ec3e9aff2318d896942282ad4fe37d6391c82914f54a5da8a37de1300c6",
+   "ours": "2c63fc1bc6a71aafa93371e373ebe5a6824abecbdebec8cc7ba486c8e42bcea2"
+  },
+  "0x381000": {
+   "stock": "f47a8ec3e9aff2318d896942282ad4fe37d6391c82914f54a5da8a37de1300c6",
+   "ours": "56384332bf888e97fd8a6ccce0bf9d6842bb727abe290e72fbcc97791c4fd33d"
+  },
+  "0x382000": {
+   "stock": "f47a8ec3e9aff2318d896942282ad4fe37d6391c82914f54a5da8a37de1300c6",
+   "ours": "f70356caf9dc84848c6485b747815a0f759cde56b0a7aa09b8895100d782ca54"
+  },
+  "0x383000": {
+   "stock": "f47a8ec3e9aff2318d896942282ad4fe37d6391c82914f54a5da8a37de1300c6",
+   "ours": "908d052b865eb1a63766b1010551b66cdc73cf6572e87da1010ca6255a9410ed"
+  }
+ },
+ "last_install": [
+  "0xe000",
+  "0xf000"
+ ],
+ "last_undo": [
+  "0x18000",
+  "0x380000",
+  "0x381000",
+  "0x382000",
+  "0x383000"
+ ],
+ "requires": [],
+ "patch_sha256": "26f0ef20cf59fbfdf1c38f602407097578312748ae8f5a5580af823a5d9c14db",
+ "patch_bytes": 17180,
+ "new_bytes": 17052,
+ "copied_from_stock_bytes": 65,
+ "note": "Pixel art + glitch inside the camera. The 3 print calls are switched over last; on undo they are switched back first."
+}
